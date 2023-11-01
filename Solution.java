@@ -38,7 +38,7 @@ class Solution {
 
     // a -> b -> c -> d
 
-    Solution.linkedListValues(a);
+    System.out.println(Solution.linkedListValues(a));
     // -> [ "a", "b", "c", "d" ]
   }
 }
